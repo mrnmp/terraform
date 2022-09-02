@@ -1,4 +1,4 @@
-# This is Terraform tutorial explains basic commands to follow for aws deployment 
+# This Terraform tutorial explains basic commands to follow for aws deployment 
 
 # initialize  terraform
 
